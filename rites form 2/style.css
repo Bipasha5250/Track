@@ -1,0 +1,56 @@
+body {
+    /* background-image: url("images/railway.jpg");
+background-size:cover;
+opacity: 0.5; */
+    height: 100vh;
+    /* padding: 15px;
+    margin: 15px; */
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+
+
+.nav {
+   height: 50px;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    
+}
+
+.logo img {
+    height: 50px;
+    /* width: 100px; */
+}
+/* .logo{
+width:100px;
+} */
+
+.main {
+/* 
+    text-align: center; */
+    margin: 20px 350px;
+    padding: 20px 30px;
+    border:2px solid green;
+    border-radius: 12px ;
+    width: 50vw;
+  
+}
+input{
+    width: 20vw;
+}
+
+h2{
+   text-align: center;
+   font-weight: bold;
+} 
+.marq{
+font-weight:700px ;
+font-size: 40px;
+ 
+
+}
